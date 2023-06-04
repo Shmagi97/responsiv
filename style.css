@@ -1,0 +1,28 @@
+.li-Ateg{
+    display: inline-block;
+    padding: 8%;
+    
+    
+    
+    
+}
+.li-Ateg a{
+    background-color: blue;
+    color: rgb(243, 9, 9);
+
+}
+
+.ragcaMeore{
+    
+    
+    width: 99%;
+    border: solid;
+   margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.ragca{
+    display: grid;
+    
+}
